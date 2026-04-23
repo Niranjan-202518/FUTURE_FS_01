@@ -12,8 +12,7 @@ A personal professional portfolio website built to showcase skills, projects, an
 
 ## 🚀 Live Demo
 
-> [Add your live link here after deploying on Vercel / GitHub Pages]
-
+(https://niranjaa.netlify.app/)
 ---
 
 ## 🛠️ Tech Stack
